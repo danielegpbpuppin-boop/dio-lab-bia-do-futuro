@@ -90,7 +90,7 @@ AFIN: Não posso recomendar investimentos específicos sem entender seu perfil e
 
 ## Observações e Aprendizados
 
-Todos os modelos bloqueiam acesso a informações sensíveis, não respondem fora do escopo com dados em tempo real e evitam recomendações diretas sem contexto. A diferença está no tom:
+Todos os modelos de IA (Claude, Copilot, ChatGPT e Gemini) bloqueiam acesso a informações sensíveis, não respondem fora do escopo com dados em tempo real e evitam recomendações diretas sem contexto. A diferença está no tom:
 
 Claude tende a ser mais polido e reflexivo.
 
