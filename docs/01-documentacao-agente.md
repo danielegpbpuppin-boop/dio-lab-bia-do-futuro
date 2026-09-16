@@ -55,7 +55,7 @@ flowchart TD
 |------------|-----------|
 | Interface | Chatbot com Streamlit |
 | LLM | Ollama (local)|
-| Base de Conhecimento | JSON/CSV mockados na pasta 'data' |
+| Base de Conhecimento | JSON/CSV |
 | Validação | Checagem de alucinação |
 
 ---
