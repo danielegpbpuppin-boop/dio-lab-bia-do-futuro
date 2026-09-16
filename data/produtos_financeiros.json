@@ -39,4 +39,52 @@
     "aporte_minimo": 100.00,
     "indicado_para": "Perfil arrojado com foco no longo prazo"
   }
+  {
+    "nome": "Poupança",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "70% da Selic",
+    "aporte_minimo": 0.00,
+    "indicado_para": "Quem busca simplicidade e liquidez imediata"
+  },
+  {
+    "nome": "Debêntures",
+    "categoria": "renda_fixa",
+    "risco": "medio",
+    "rentabilidade": "CDI + prêmio",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Investidores que aceitam risco maior em troca de rendimento"
+  },
+  {
+    "nome": "ETF de Ações",
+    "categoria": "fundo",
+    "risco": "alto",
+    "rentabilidade": "Segue índice (ex.: Ibovespa)",
+    "aporte_minimo": 50.00,
+    "indicado_para": "Quem busca diversificação com baixo custo"
+  },
+  {
+    "nome": "Fundo Imobiliário (FII)",
+    "categoria": "fundo",
+    "risco": "medio",
+    "rentabilidade": "Distribuição de aluguéis + valorização",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Quem busca renda passiva com imóveis"
+  },
+  {
+    "nome": "Previdência Privada (PGBL/VGBL)",
+    "categoria": "previdencia",
+    "risco": "variável",
+    "rentabilidade": "Depende do fundo escolhido",
+    "aporte_minimo": 200.00,
+    "indicado_para": "Planejamento de longo prazo e aposentadoria"
+  },
+  {
+    "nome": "Criptomoedas",
+    "categoria": "ativo_digital",
+    "risco": "alto",
+    "rentabilidade": "Altamente volátil",
+    "aporte_minimo": 50.00,
+    "indicado_para": "Perfil arrojado disposto a lidar com volatilidade"
+  }
 ]
