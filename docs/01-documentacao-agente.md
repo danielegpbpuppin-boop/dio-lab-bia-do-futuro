@@ -103,4 +103,4 @@ flowchart TD
 
 - Não realiza cálculos avançados de risco ou projeções financeiras personalizadas.
 
-Não oferece suporte jurídico, contábil ou tributário especializado.
+- Não oferece suporte jurídico, contábil ou tributário especializado.
